@@ -1,3 +1,3 @@
-export default function Gallery() {
+export default function Home() {
   return <div>Home</div>;
 }
